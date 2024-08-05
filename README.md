@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosavarin0&label=Profile%20views&color=0e75b6&style=flat" alt="marcosavarin0" /> </p>
 
-- 🔭 Actualmente estoy trabajando [HiperFeria-Api](https://github.com/MarcoSavarin0/hiperFeria-api)
+- 🔭 Actualmente estoy trabajando como Freelance.
 
-- 🌱 Ahora mismo estoy cursando la Carrera de Digital House Co Creada con Mercado Libre y Globant(2023-aprox 2025) **Cursando Infra 1 y Frontend 2**
+- 🌱 Ahora mismo estoy cursando la Carrera de Digital House Co Creada con Mercado Libre y Globant(2023-aprox 2025) **Cursando Backend 1 y UX/UI**
 
 - 👯 Estoy colaborando con el deploy en vps haciendo un CI/CD [DevMinds LandingPage](https://github.com/franpfeiffer/DevMinds-Landing-page)
 
