@@ -5,9 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando part time en Gaucho Digital.
 
-- 🌱 Ahora mismo estoy cursando la Carrera de Digital House Co Creada con Mercado Libre y Globant(2023-aprox 2025) **Cursando Backend 1 y UX/UI**
-
-- 👯 Estoy colaborando con el deploy en vps haciendo un CI/CD [DevMinds LandingPage](https://github.com/franpfeiffer/DevMinds-Landing-page)
+- 🌱 Ahora mismo estoy cursando la Carrera de Digital House Co Creada con Mercado Libre y Globant(2023-aprox 2025) **Cursando Frontend 3 y Infra 2**
 
 - 👨‍💻 Si quieres saber mas de mi entra a mi web [https://marcosavarino.world/](https://marcosavarino.world/)
 
