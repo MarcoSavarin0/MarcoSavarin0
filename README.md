@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Marco Savarino</h1>
-<h3 align="center">Desarrollador Backend y Sre Engineer(DevOps) en proceso.</h3>
+<h3 align="center">Desarrollador Full Stack JR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosavarin0&label=Profile%20views&color=0e75b6&style=flat" alt="marcosavarin0" /> </p>
 
-- 🔭 Actualmente estoy trabajando como Freelance.
+- 🔭 Actualmente estoy trabajando part time en Gaucho Digital.
 
 - 🌱 Ahora mismo estoy cursando la Carrera de Digital House Co Creada con Mercado Libre y Globant(2023-aprox 2025) **Cursando Backend 1 y UX/UI**
 
